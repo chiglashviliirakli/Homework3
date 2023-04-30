@@ -1,0 +1,17 @@
+h1 {
+    color: orange;
+    background-color: rgba(0, 0, 0, 0.355);
+}
+h2 {
+    color: aqua;
+    background-color: rgba(8, 10, 141, 0.367);
+}
+h3 {
+color: yellow;
+background-color: black;
+}
+table
+th,
+td{
+    border: 2px solid black
+}
